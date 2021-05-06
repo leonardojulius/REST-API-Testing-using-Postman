@@ -57,6 +57,13 @@ output should like this
 
 ![image](https://user-images.githubusercontent.com/16941074/117301558-54c98400-aead-11eb-9695-a8e1a37080ed.png)
 
+10. go to readme `https://github.com/typicode/json-server`
+
+![image](https://user-images.githubusercontent.com/16941074/117334985-3ffce880-aecd-11eb-854b-022800731472.png)
+
+
+11.
+
 
 
 
