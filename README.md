@@ -66,7 +66,8 @@ output should like this
 
 
 POST REQUEST
-11. Instert below using POST method in postman
+
+11. Insert below using POST method in postman
 
     ```
      {
@@ -78,6 +79,22 @@ POST REQUEST
     ````
 
 ![image](https://user-images.githubusercontent.com/16941074/117338412-1a71de00-aed1-11eb-8ecb-cb7dbd405283.png)
+
+12.Basic PUT Request
+
+ ```
+ {
+    "id": 1,
+    "title": "My Title",  // Previously "Updated Title"
+    "author": "Updated Author"
+
+ }
+ 
+ ```
+
+![image](https://user-images.githubusercontent.com/16941074/117344563-16958a00-aed8-11eb-8b00-e4ff5e54d805.png)
+
+
 
 
 
