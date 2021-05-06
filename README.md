@@ -99,8 +99,14 @@ POST REQUEST
 
 ![image](https://user-images.githubusercontent.com/16941074/117346430-4e053600-aeda-11eb-8d3c-742ab1c3147b.png)
 
+  ```
+ {
+    "id": 1,
+    "title": "My Title",
+    "author": "Updated Author"
+ }
 
-
+```
 
 
 
