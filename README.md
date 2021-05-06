@@ -25,7 +25,8 @@ Setting Up Project
 
 4. Create new Json File `db.json`
 
-`{
+```
+{
   "posts": [
     {
       "id": 1,
@@ -43,7 +44,8 @@ Setting Up Project
   "profile": {
     "name": "typicode"
   }
-}`
+}
+```
 
 5. save it on my documents
 6. run command prompt or terminal 
