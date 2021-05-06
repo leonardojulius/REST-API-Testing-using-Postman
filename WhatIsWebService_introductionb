@@ -1,0 +1,7 @@
+-Simple Definition : Service available over web ( or network)
+-Provide a way to communitcate between 2 machines/applications
+
+Difference between Web Application and Web Service
+
+-Unlike traditional client/server models, such as Web server/Web page system, Web services
+do not provide the user with a GUI.
