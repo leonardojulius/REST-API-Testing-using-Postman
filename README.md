@@ -21,12 +21,11 @@ Setting Up Project
    -npm help <term>   search for help on <term>
    -npm help npm      involved overview
 
-3. Install JSON Server `npm install -g json-server`
+3. Install JSON Server `\\`
 
 4. Create new Json File `db.json`
 
 `{
-
   "posts": [
     {
       "id": 1,
@@ -47,3 +46,17 @@ Setting Up Project
 }`
 
 5. save it on my documents
+6. run command prompt or terminal 
+7. type `cd documents` or some place you save the jsonfile
+8. type `json-server --watch db.json`
+output should like this
+
+![image](https://user-images.githubusercontent.com/16941074/117301327-1fbd3180-aead-11eb-8630-70660bf64209.png)
+
+9.then go to browser type the url output should like this
+
+![image](https://user-images.githubusercontent.com/16941074/117301558-54c98400-aead-11eb-9695-a8e1a37080ed.png)
+
+
+
+
