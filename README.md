@@ -94,6 +94,11 @@ POST REQUEST
 
 ![image](https://user-images.githubusercontent.com/16941074/117344563-16958a00-aed8-11eb-8b00-e4ff5e54d805.png)
 
+13. Basic Delete Request
+
+
+![image](https://user-images.githubusercontent.com/16941074/117346430-4e053600-aeda-11eb-8d3c-742ab1c3147b.png)
+
 
 
 
