@@ -57,14 +57,28 @@ output should like this
 
 9.then go to browser type the url output should like this
 
-![image](https://user-images.githubusercontent.com/16941074/117301558-54c98400-aead-11eb-9695-a8e1a37080ed.png)
+![image](https://user-images.githubusercontent.com/16941074/117336042-5d7e8200-aece-11eb-912e-9253e64922bb.png)
+
 
 10. go to readme `https://github.com/typicode/json-server`
 
 ![image](https://user-images.githubusercontent.com/16941074/117334985-3ffce880-aecd-11eb-854b-022800731472.png)
 
 
-11.
+POST REQUEST
+11. Instert below using POST method in postman
+
+    ```
+     {
+        "id": 2,
+        "title": "POST Title",
+        "author": "POST Author"
+     }
+    
+    ````
+
+![image](https://user-images.githubusercontent.com/16941074/117338412-1a71de00-aed1-11eb-8ecb-cb7dbd405283.png)
+
 
 
 
